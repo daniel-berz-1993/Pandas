@@ -1,2 +1,0 @@
-# Pandas
-Archivos para Pandas
